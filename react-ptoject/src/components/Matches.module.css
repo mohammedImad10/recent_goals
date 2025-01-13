@@ -1,0 +1,39 @@
+.container {
+    padding: 20px;
+  }
+  
+  .heading {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .matchList {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .matchCard {
+    background-color: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .teams {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .details {
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .team {
+    color: #ff9800;
+  }
+  
